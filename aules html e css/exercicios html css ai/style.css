@@ -1,0 +1,17 @@
+h1 {
+  color: blue;
+  font-size: 36px;
+  text-align: center;
+}
+ol {
+  color: green;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+a {
+  text-decoration: solid;
+  color: red;
+}
